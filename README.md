@@ -2,7 +2,7 @@
 ### Overview
 This is a simple Email Client application built using Python's tkinter library for the GUI, and smtplib and imaplib for sending and receiving emails respectively. It allows users to log in to their Gmail account, view received emails, compose and send new emails, and set up an autoresponder.
 
-###Features
+### Features
 * Login: Users can log in using their Gmail email address and password.
 * View Inbox: Upon logging in, the application displays the user's inbox with the list of received emails.
 * Filtering: Users can filter emails based on keywords in the subject or sender's email address.
